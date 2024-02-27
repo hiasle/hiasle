@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiasle
+- 👋 Hi, I’m Matthias Huber
 - 👀 I’m interested in Frontend/Backend development
 - 🌱 I’m currently learning Angular/Typescript
 - 📫 How to reach me matthias.hube@gmail.com
